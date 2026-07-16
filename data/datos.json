@@ -1,0 +1,6 @@
+{
+  "consultas": [
+    {"consulta": "GENERO", "valor": "Femenino"},
+    {"consulta": "CANAL", "valor": "POS"}
+  ]
+}

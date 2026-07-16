@@ -1,0 +1,28 @@
+{"timestamp": "2026-07-13T04:56:55.545231+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-13T04:57:39.417343+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-13T04:57:53.163505+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-13T04:58:10.870433+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"GENERO": "Masculino"}}}
+{"timestamp": "2026-07-13T04:58:23.134902+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"GENERO": "Masculino"}}}
+{"timestamp": "2026-07-13T05:17:48.775755+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"GENERO": "Femenino"}}}
+{"timestamp": "2026-07-13T05:18:27.001417+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"GENERO": "Femenino"}}}
+{"timestamp": "2026-07-13T05:18:39.800979+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-13T05:18:50.189045+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-13T05:19:33.347951+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "c3576623-6505-342b-84c9-76a1cfe62301"}}}
+{"timestamp": "2026-07-13T05:19:59.203456+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "b4948bf7-d395-3860-a333-ccdb2388f783"}}}
+{"timestamp": "2026-07-13T05:20:09.378691+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "b4948bf7-d395-3860-a333-ccdb2388f783"}}}
+{"timestamp": "2026-07-13T05:20:21.748049+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"LOCAL": 33}}}
+{"timestamp": "2026-07-13T05:21:18.331198+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "60c76bc8-0358-30e2-a4b4-dc7ee6b318b1"}}}
+{"timestamp": "2026-07-13T05:22:04.827448+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "60c76bc8-0358-30e2-a4b4-dc7ee6b318b1", "LOCAL": 211}}}
+{"timestamp": "2026-07-13T05:42:45.491636+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "44687650-008d-3fb8-80b8-15a47f394e27"}}}
+{"timestamp": "2026-07-13T05:43:28.723585+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "44687650-008d-3fb8-80b8-15a47f394e27", "LOCAL": 211}}}
+{"timestamp": "2026-07-13T05:44:44.380140+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-13T05:44:56.934098+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "44687650-008d-3fb8-80b8-15a47f394e27"}}}
+{"timestamp": "2026-07-13T05:45:16.657971+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "44687650-008d-3fb8-80b8-15a47f394e27"}}}
+{"timestamp": "2026-07-13T05:45:25.014227+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "44687650-008d-3fb8-80b8-15a47f394e27", "LOCAL": 211}}}
+{"timestamp": "2026-07-13T05:45:36.225116+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"ID_PERSONA": "44687650-008d-3fb8-80b8-15a47f394e27", "LOCAL": 211}}}
+{"timestamp": "2026-07-13T05:45:46.726840+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"LOCAL": 211}}}
+{"timestamp": "2026-07-13T05:45:55.867032+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"LOCAL": 211}}}
+{"timestamp": "2026-07-15T01:23:22.795498+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-15T02:31:53.233218+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {}}}
+{"timestamp": "2026-07-15T02:32:44.412487+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"GENERO": "Femenino"}}}
+{"timestamp": "2026-07-15T02:54:45.402466+00:00", "tipo": "sesion", "metodo": "GET", "path": "/v1/estadisticas/ventas", "status": 200, "detalle": {"filtros": {"GENERO": "Femenino", "LOCAL": 209}}}
